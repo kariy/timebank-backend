@@ -1,0 +1,6 @@
+[submodule "timebank-server"]
+	path = timebank-server
+	url = https://github.com/kariy/timebank-server.git
+[submodule "server"]
+	path = timebank-server
+	url = https://github.com/kariy/timebank-server.git
