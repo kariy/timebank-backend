@@ -4,3 +4,6 @@
 [submodule "server"]
 	path = timebank-server
 	url = https://github.com/kariy/timebank-server.git
+[submodule "gotrue-rs"]
+	path = gotrue-rs
+	url = https://github.com/kariy/gotrue-rs.git
