@@ -7,3 +7,7 @@
 [submodule "gotrue-rs"]
 	path = gotrue-rs
 	url = https://github.com/kariy/gotrue-rs.git
+[submodule "contracts"]
+	path = contracts
+	url = https://github.com/kariy/timebank-contracts.git
+	branch = main
